@@ -23,5 +23,5 @@ setup(
     long_description=open("README.rst").read(),
     license=PyBaiduYuyin.__license__,
     keywords="baidu voice service",
-    url="https://github.com/DelightRun/PyBaiduYuyin",
+    url="https://github.com/votenl/PyBaiduYuyin-1",
 )
